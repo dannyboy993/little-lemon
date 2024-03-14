@@ -5,4 +5,4 @@ Project is built in Kotlin and Jetpack Compose, and also SQLite for local databa
 Some of the topics that are covered are navigation, data structures, live data, shared prefferences, databases, HTTPS requests and aplication lifecycle. 
 Assignment was semi guided, with some starter code and clear instructions. 
 
-
+![littleLemonScreensh](https://github.com/dannyboy993/little-lemon/assets/50717237/54c8af17-e156-4606-b113-d47807c64804)
